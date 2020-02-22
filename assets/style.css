@@ -36,7 +36,8 @@ section {
     color: #EB4B73;
 }
 .name-size {
-    font-size:40px;
+    font-size: 30px;
+    letter-spacing: 2px;
     font-weight: 700;
 }
 
