@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-width {
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+}
+section {
+    height: 500px;
+    padding-bottom: 375px;
+}
+.top-area {
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.half-width p {
+    color: gray;
+}
+.half-width img {
+    width: 100%;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #EB4B73, #EB4B73);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.name-highlight {
+    color: #EB4B73;
+}
+.name-size {
+    font-size:40px;
+    font-weight: 700;
+}
+
+.section-justify {
+     padding-top: 180px;
+}
+
+.bio-section {
+    background-image: url("../images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.recent-project-section {
+    background-image: url("../images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 0;
+    padding-top: 80px;
+}
+
+.recent-project-section .projects {
+    padding-top: 80px;
+    padding-left:120px;
+}
+
+.project {
+   width: 30%;
+   float: left;
+}
+
+.project img {
+    width: 95%;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.testimonial-section {
+    background-image: url("../images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.testimonial {
+    padding-top: 180px;
+    text-align: center;
+}
+
+.designation {
+    color: darkgray;
+    font-size: 14px;
+}
+
+.review-text {
+    width: 30%;
+    margin: 0 auto;
+    color: gray;
+}
+
+.contact-area {
+    background-color: #EB4B73;
+    width: 50%;
+    height: 180px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.contact-area p {
+    text-align: center;
+    padding-top: 50px;
+    color: #fff;
+}
+
+.contact-area h3 {
+    text-align: center;
+    color: #fff;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
+    font-size: 15px;
+}
